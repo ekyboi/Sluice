@@ -56,7 +56,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/Coolcubercoder/Sluice"
+	"github.com/ekyboi/Sluice"
 )
 
 func main() {
