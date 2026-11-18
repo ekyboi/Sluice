@@ -38,13 +38,13 @@ tenant shares.
 ## Install
 
 ```sh
-go get github.com/Coolcubercoder/Sluice
+go get github.com/ekyboi/Sluice
 ```
 
 The import path ends in `Sluice`, the package clause is `sluice`:
 
 ```go
-import "github.com/Coolcubercoder/Sluice" // package sluice
+import "github.com/ekyboi/Sluice" // package sluice
 ```
 
 ## Quick start
